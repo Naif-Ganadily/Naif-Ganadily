@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Toward a real-time decoding of images from brain activity](https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/)
 
-- 🤝 I’m looking for help with **Research LLMs**
+- 🤝 I’m looking for help with **LLM Research**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naif-Ganadily](https://github.com/Naif-Ganadily)
 
