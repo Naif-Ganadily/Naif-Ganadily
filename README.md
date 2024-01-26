@@ -1,4 +1,4 @@
-<img align="center" alt="coding width="1000" src="https://www.canva.com/design/DAF5VikeBVE/view">
+![github-header-image](https://github.com/Naif-Ganadily/Naif-Ganadily/assets/103202628/6720e85d-4def-4a22-9526-8c21fec49175)
 
 
 
