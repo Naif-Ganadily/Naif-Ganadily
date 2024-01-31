@@ -1,8 +1,9 @@
 ![github-header-image](https://github.com/Naif-Ganadily/Naif-Ganadily/assets/103202628/6720e85d-4def-4a22-9526-8c21fec49175)
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Seruef&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naif+A.+Ganadily!;" />
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Naif A. Ganadily</h1>
 <h3 align="center">MSEE @ UW | Research Collaborator @ NVIDIA | Available for Hire Spring 2024</h3>
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zzb3RuM3F3NzQ2aWJ1cDc5bHF5Z2pseDlhMGhiNjZ5NDhoZGRlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -24,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naif-ganadily/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naif-ganadily/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/naifaganadily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/naifaganadily" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ganadilynaif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ganadilynaif/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naif-ganadily/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naif-ganadily/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/naifaganadily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/naifaganadily" height="30" width="40" /></a>
+<a href="https://leetcode.com/ganadilynaif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ganadilynaif/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
