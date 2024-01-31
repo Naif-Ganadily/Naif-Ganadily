@@ -37,6 +37,14 @@
     </a>
 </div>
 
+<br/>
+<hr/>
+
+<div align="center">
+    <h2>✔️ My Contributions ✔️</h2>
+    <br>
+    
+
 </p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naif-ganadily&show_icons=true&locale=en&layout=compact" alt="naif-ganadily" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naif-ganadily&show_icons=true&locale=en" alt="naif-ganadily" /></p>
