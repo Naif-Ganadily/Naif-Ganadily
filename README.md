@@ -33,7 +33,8 @@
 <br/>
 <div align="center">
     <a href=https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,kubernetes,docker,c,matlab,git,anaconda,vscode,aws,gcp,wordpress,blender" /><br>
+        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,kubernetes,docker,c" /><br>
+        <img src="https://skillicons.dev/icons?i=matlab,git,anaconda,vscode,aws,gcp,wordpress,blender" /><br>
     </a>
 </div>
 
@@ -43,12 +44,24 @@
 <div align="center">
     <h2>✔️ My Contributions ✔️</h2>
     <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+    <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+    <br/><br/><br/>
 </div>
-
 <hr/>
+
     
 
 </p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naif-ganadily&show_icons=true&locale=en&layout=compact" alt="naif-ganadily" /></p>
