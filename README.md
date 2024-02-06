@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ganadilynaif@gmail.com**
 
-- ⚡ Fun fact **I am a Rockclimber**
+- ⚡ Fun fact **I am a Certified Rockclimber**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
