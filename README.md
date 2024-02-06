@@ -31,14 +31,31 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <a href=https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,opencv,sklearn,kubernetes,docker,c,cpp,flask" /><br>
-        <img src="https://skillicons.dev/icons?i=matlab,react,git,github,anaconda,vscode,aws,gcp,heroku,wordpress,mongodb,mysql,blender" /><br>
-    </a>
-</div>
-
+<table align="center">
+<tr>
+    <td align="center"><strong>Core Programming</strong><br><img src="https://skillicons.dev/icons?i=python" alt="Python"/></td>
+    <td align="center"><strong>Machine Learning & AI</strong><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch"/></td>
+    <td align="center"><strong>Containerization & Version Control</strong><br><img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git"/></td>
+</tr>
+<tr>
+    <td align="center"><strong>Cloud Technologies</strong><br><img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure, GCP"/></td>
+    <td align="center"><strong>Development Tools</strong><br><img src="https://skillicons.dev/icons?i=vscode,anaconda" alt="VSCode, Anaconda"/></td>
+    <td align="center"><strong>Databases</strong><br><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL"/></td>
+</tr>
+<tr>
+    <td align="center"><strong>Additional Programming Languages & Tools</strong><br><img src="https://skillicons.dev/icons?i=c,cpp,r,matlab" alt="C, C++, R, MATLAB"/></td>
+    <td align="center"><strong>Web Development</strong><br><img src="https://skillicons.dev/icons?i=react,flask,wordpress" alt="React, Flask, WordPress"/></td>
+    <td align="center"><strong>Creative & Design Tools</strong><br><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
+</tr>
+</table>
 <br/>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naif-ganadily&show_icons=true&locale=en&layout=compact" alt="naif-ganadily" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naif-ganadily&show_icons=true&locale=en" alt="naif-ganadily" width="420" />
+</p>
+
 <hr/>
 
 <div align="center">
@@ -62,10 +79,3 @@
 </div>
 <hr/>
 
-    
-
-</p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naif-ganadily&show_icons=true&locale=en&layout=compact" alt="naif-ganadily" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naif-ganadily&show_icons=true&locale=en" alt="naif-ganadily" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naif-ganadily&" alt="naif-ganadily" /></p>
