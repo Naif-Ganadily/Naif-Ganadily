@@ -33,8 +33,8 @@
 <br/>
 <div align="center">
     <a href=https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,kubernetes,docker,c" /><br>
-        <img src="https://skillicons.dev/icons?i=matlab,git,anaconda,vscode,aws,gcp,wordpress,blender" /><br>
+        <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,opencv,sklearn,kubernetes,docker,c,cpp,flask" /><br>
+        <img src="https://skillicons.dev/icons?i=matlab,react,git,github,anaconda,vscode,aws,gcp,heroku,wordpress,mongodb,mysql,blender" /><br>
     </a>
 </div>
 
