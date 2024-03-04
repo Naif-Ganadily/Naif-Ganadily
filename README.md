@@ -4,18 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Seruef&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naif+A.+Ganadily!;" />
 </h1>
 
-<h3 align="center">MSEE @ UW | AI Research Collaborator @ NVIDIA | Available for Hire Spring 2024</h3>
+<h3 align="center">MSEE @ UW | Ex-Research Intern @ NVIDIA | Available for Hire Seeking Generative AI/NLP/Computer Vision Roles</h3>
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zzb3RuM3F3NzQ2aWJ1cDc5bHF5Z2pseDlhMGhiNjZ5NDhoZGRlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naif-ganadily&label=Profile%20views&color=0e75b6&style=flat" alt="naif-ganadily" /> </p>
 
-- 🔭 I’m currently working on **Fine tuning the LoFTR Model**
+- 🔭 I’m currently working on **Passing the Azure AI Fundamentals and AI Engineer Exams**
 
-- 🌱 I’m currently learning **Machine Learning for Cybersecurity**
+- 🌱 I’m currently learning **Machine Learning for Cybersecurity, Generative AI, Classical Machine Learning**
 
 - 👯 I’m looking to collaborate on [Toward a real-time decoding of images from brain activity](https://ai.meta.com/blog/brain-ai-image-decoding-meg-magnetoencephalography/)
 
-- 🤝 I’m looking for help with **ClimbVision @ https://github.com/Naif-Ganadily/climbvision**
+- 🤝 I’m looking for help with **MedVisionAnalyst [https://github.com/Naif-Ganadily/MedVisionAnalyst](Link to the Repo)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naif-Ganadily](https://github.com/Naif-Ganadily)
 
