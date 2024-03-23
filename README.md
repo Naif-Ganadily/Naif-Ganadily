@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naif-ganadily&label=Profile%20views&color=0e75b6&style=flat" alt="naif-ganadily" /> </p>
 
-- 🔭 I’m currently working on **Passing the Azure AI Fundamentals and AI Engineer Exams**
+- 🔭 I’m currently working on **Passing the AI Engineer Exams**
 
 - 🌱 I’m currently learning **Machine Learning for Cybersecurity, Generative AI, Classical Machine Learning**
 
