@@ -33,7 +33,7 @@
 <br/>
 <table align="center">
 <tr>
-    <td align="center"><strong>Core Programming</strong><br><img src="https://skillicons.dev/icons?i=python" alt="Python"/></td>
+    <td align="center"><strong>Core Programming</strong><br><img src="https://skillicons.dev/icons?i=python,c" alt="Python, C"/></td>
     <td align="center"><strong>Machine Learning & AI</strong><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch"/></td>
     <td align="center"><strong>Containerization & Version Control</strong><br><img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git"/></td>
 </tr>
