@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Seruef&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naif+A.+Ganadily!;" />
 </h1>
 
-<h3 align="center">AI Engineer | MSEE (AI Focus) @ The University of Washington | Ex-NVIDIA Research Collaborator</h3>
+<h3 align="center">AI Researcher | Ph.D. Student in Biomedical Informatics @ Arizona State University | MSEE (AI Focus) @ The University of Washington | Ex-NVIDIA Research Collaborator</h3>
 <img align="right" alt="coding width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zzb3RuM3F3NzQ2aWJ1cDc5bHF5Z2pseDlhMGhiNjZ5NDhoZGRlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naif-ganadily&label=Profile%20views&color=0e75b6&style=flat" alt="naif-ganadily" /> </p>
