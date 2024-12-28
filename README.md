@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naif-ganadily&label=Profile%20views&color=0e75b6&style=flat" alt="naif-ganadily" /> </p>
 
-- 🔭 I’m currently working on **AI Research in MultiOmics Data and Hypothesis Driven AI**
+- 🔭 I’m currently working on **Machine Learning Research in Metagenomics**
 
-- 🌱 I’m currently learning **Multiomics Integration**
+- 🌱 I’m currently learning **Pytorch for Computer Vision**
 
-- 👯 I’m looking to collaborate on _____
+- 👯 I’m looking to collaborate on Computer Vision for Games
 
-- 🤝 I’m looking for help with _____
+- 🤝 I’m looking for help with Computer Vision for OuterWilds (Computer Vision, Text to Speech, Webcam Integration)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naif-Ganadily](https://github.com/Naif-Ganadily)
 
