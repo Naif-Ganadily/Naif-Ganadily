@@ -1,59 +1,137 @@
 ![github-header-image](https://github.com/Naif-Ganadily/Naif-Ganadily/assets/103202628/6720e85d-4def-4a22-9526-8c21fec49175)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Seruef&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naif+A.+Ganadily!;" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Seruef&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naif+A.+Ganadily!;" />
+</div>
 
-<h3 align="center">Machine Learning Engineer | Ph.D. Student in Biomedical Informatics (Data Science) @ Arizona State University | MSEE (AI Focus) @ The University of Washington | Ex-NVIDIA Research Collaborator</h3>
-<img align="right" alt="coding width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zzb3RuM3F3NzQ2aWJ1cDc5bHF5Z2pseDlhMGhiNjZ5NDhoZGRlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">Graduate Research Associate @ ASU | Graduate Research Scholar Intern @ Mayo Clinic | Ph.D. Student in Biomedical Informatics (Data Science) @ Arizona State University | MSEE (AI Focus) @ The University of Washington | Ex-NVIDIA Research Collaborator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naif-ganadily&label=Profile%20views&color=0e75b6&style=flat" alt="naif-ganadily" /> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/naif-ganadily/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/naifaganadily" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="mailto:ganadilynaif@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=naif-ganadily&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </p>
+</div>
 
-- 🔭 I’m currently working on **Machine Learning Research in Metagenomics**
+<div align="center">
+  <img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zzb3RuM3F3NzQ2aWJ1cDc5bHF5Z2pseDlhMGhiNjZ5NDhoZGRlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+</div>
 
-- 🌱 I’m currently learning **Pytorch for Computer Vision**
+## 💼 Current Focus
 
-- 👯 I’m looking to collaborate on Computer Vision for Games
+- 🔭 Working on **Machine Learning Research in Metagenomics**
+- 🌱 Developing skills in **PyTorch for Computer Vision**
+- 👨‍💻 All projects available at [GitHub](https://github.com/Naif-Ganadily)
+- ⚡ Fun fact: **I am a Certified Rock Climber**
 
-- 🤝 I’m looking for help with Computer Vision for OuterWilds (Computer Vision, Text to Speech, Webcam Integration)
+<br clear="right">
 
-- 👨‍💻 All of my projects are available at [https://github.com/Naif-Ganadily](https://github.com/Naif-Ganadily)
+## ⚒️ Technical Skills
 
-- 📫 How to reach me **ganadilynaif@gmail.com**
-
-- ⚡ Fun fact **I am a Certified Rockclimber**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/naif-ganadily/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naif-ganadily/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/naifaganadily" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/naifaganadily" height="30" width="40" /></a>
-</p>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <table align="center">
-<tr>
+  <tr>
     <td align="center"><strong>Core Programming</strong><br><img src="https://skillicons.dev/icons?i=python" alt="Python"/></td>
     <td align="center"><strong>Machine Learning & AI</strong><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch"/></td>
     <td align="center"><strong>Containerization & Version Control</strong><br><img src="https://skillicons.dev/icons?i=docker,git" alt="Docker, Git"/></td>
-</tr>
-<tr>
+  </tr>
+  <tr>
     <td align="center"><strong>Cloud Technologies</strong><br><img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="AWS, Azure, GCP"/></td>
     <td align="center"><strong>Development Tools</strong><br><img src="https://skillicons.dev/icons?i=vscode,anaconda" alt="VSCode, Anaconda"/></td>
     <td align="center"><strong>Databases</strong><br><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL"/></td>
-</tr>
-<tr>
-    <td align="center"><strong>Additional Programming Languages & Tools</strong><br><img src="https://skillicons.dev/icons?i=c,cpp,r,matlab" alt="C, C++, R, MATLAB"/></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Additional Languages</strong><br><img src="https://skillicons.dev/icons?i=c,cpp,r,matlab" alt="C, C++, R, MATLAB"/></td>
     <td align="center"><strong>Web Development</strong><br><img src="https://skillicons.dev/icons?i=react,flask,wordpress" alt="React, Flask, WordPress"/></td>
-    <td align="center"><strong>Creative & Design Tools</strong><br><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
-</tr>
+    <td align="center"><strong>Creative Tools</strong><br><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
+  </tr>
 </table>
-<br/>
 
+## 🎓 Certifications & Credentials
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naif-ganadily&show_icons=true&locale=en&layout=compact" alt="naif-ganadily" width="420" />
+<details>
+<summary><strong>🧑‍💻 Machine Learning & AI</strong></summary>
+<br>
 
+- **TensorFlow Developer Professional** – [DeepLearning.AI](https://www.deeplearning.ai/) *(80hr, Credential ID: 2A3XH7XWNZU0)*
+- **Azure AI Fundamentals** – [Microsoft](https://learn.microsoft.com/) *(Credential ID: 35C27AB118DFA657)*
+- **Generative AI with Large Language Models** – [DeepLearning.AI](https://www.deeplearning.ai/)
+- **Machine Learning Specialization** – [Stanford University](https://online.stanford.edu/)
+- **Introduction to On-Device AI** – [DeepLearning.AI](https://www.deeplearning.ai/)
+- **Mathematics for Machine Learning** – [Imperial College London](https://www.imperial.ac.uk/)
+- **Introduction to Machine Learning with scikit-learn** – [Data School](https://www.dataschool.io/) *(Credential ID: bMROijAk)*
+</details>
+
+<details>
+<summary><strong>📊 Data Science & Analytics</strong></summary>
+<br>
+
+- **IBM Data Science Professional Certificate** – [IBM](https://www.ibm.com/)
+- **Google Data Analytics Professional Certificate** – [Google Career Certificates](https://grow.google/certificates/data-analytics/)
+- **Introduction to Data Science Specialization** – [IBM](https://www.ibm.com/)
+</details>
+
+<details>
+<summary><strong>🏥 Biomedical Research & Healthcare</strong></summary>
+<br>
+
+- **AI Series: Introduction to Clinical Data** – [Stanford University School of Medicine](https://med.stanford.edu/)
+- **IRB Biomedical Research (Group 1)** – [CITI Program](https://about.citiprogram.org/) *(Credential ID: 67768026, Expires Feb 2029)*
+- **Responsible Conduct of Research (RCR)** – [CITI Program](https://about.citiprogram.org/) *(Credential ID: 65231466)*
+- **AI for Precision Nutrition Bootcamp** – [Arizona State University](https://www.asu.edu/)
+- **AI Series: Introduction to Healthcare** – [Stanford University School of Medicine](https://med.stanford.edu/)
+</details>
+
+<details>
+<summary><strong>💻 Cloud & DevOps</strong></summary>
+<br>
+
+- **AWS Certified Cloud Practitioner** – [Amazon Web Services (AWS)](https://aws.amazon.com/) *(Expired May 2024)*
+- **AWS: Getting Started with Cloud Security** – [AWS](https://aws.amazon.com/) *(Credential ID: ce2a6f9a131a4f5ab2aa58211d92139d)*
+- **Introduction to DevOps** – [IBM](https://www.ibm.com/) *(Credential ID: QY12S2OWKPCX)*
+</details>
+
+<details>
+<summary><strong>📈 Project Management & Business</strong></summary>
+<br>
+
+- **Foundations of Project Management** – [Google](https://grow.google/) *(Credential ID: IMZRMG9EWGP9)*
+- **Project Management Practicals – Electrical Engineering** – [AAPM](https://www.certifiedprojectmanager.us/) *(Credential ID: 20191216)*
+- **Managing Project Risks** – [Doroob](https://www.doroob.sa/) *(Credential ID: d5011f14410d44929ad7121b82a198f3)*
+- **Fundamentals of Management** – [Doroob](https://www.doroob.sa/) *(Credential ID: c4ff369fd0fe46fc9a50f731629e053b)*
+- **Stress Management in the Workplace** – [Doroob](https://www.doroob.sa/) *(Credential ID: 84e6de50b1fa41129a4c7794aa676090)*
+</details>
+
+<details>
+<summary><strong>🎖 Academic Degrees</strong></summary>
+<br>
+
+- **Master of Science in Electrical Engineering (AI Focus)** – [University of Washington](https://www.washington.edu/) *(Credential ID: 2467-BBKJ-NCYQ)*
+- **Bachelor of Science in Electrical Engineering (Electronics and Telecommunications)** – [University of Business and Technology](https://www.ubt.edu.sa/About/Home)
+</details>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naif-ganadily&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naif-ganadily&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naif-ganadily&theme=tokyonight" alt="GitHub Streak" width="420" />
+</div>
+
+## 🔍 Credential Verification
+
+<div align="center">
+  <a href="https://www.credly.com/users/naif-ganadily.f850a400" target="_blank">
+    <img src="https://img.shields.io/badge/Credly_Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
+  </a>
+</div>
 
 
 
