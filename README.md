@@ -135,12 +135,12 @@
   <a href="https://www.credly.com/users/naif-ganadily.f850a400" target="_blank">
     <img src="https://img.shields.io/badge/Credly_Secondary_Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Secondary Profile"/>
   </a>
-  
-  <div align="center">
-    <a href="https://www.credly.com/badges/cc7270e5-6fdf-4224-a77a-7b60e8595fda/public_url" target="_blank">
-      <img src="https://images.credly.com/size/340x340/images/1d61d0a0-9abe-4fe6-9358-f8d6a7e34973/Programmer.png" width="150" alt="SAS Certified Associate: Programming Fundamentals"/>
-    </a>
-  </div>
 </div>
 
+<h3 align="center">Featured Certification</h3>
+<p align="center">
+  <a href="https://www.credly.com/badges/cc7270e5-6fdf-4224-a77a-7b60e8595fda/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/main/sas-educator.png" width="150" alt="SAS Certified Associate: Programming Fundamentals"/>
+  </a>
+</p>
 
