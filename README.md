@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/naif-ganadily/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.kaggle.com/naifaganadily" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
   <a href="mailto:ganadilynaif@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -70,6 +73,7 @@
 <summary><strong>📊 Data Science & Analytics</strong></summary>
 <br>
 
+- **SAS Certified Associate: Programming Fundamentals (Base SAS)** – [SAS](https://www.sas.com/)
 - **IBM Data Science Professional Certificate** – [IBM](https://www.ibm.com/)
 - **Google Data Analytics Professional Certificate** – [Google Career Certificates](https://grow.google/certificates/data-analytics/)
 - **Introduction to Data Science Specialization** – [IBM](https://www.ibm.com/)
@@ -125,10 +129,18 @@
 ## 🔍 Credential Verification
 
 <div align="center">
-  <a href="https://www.credly.com/users/naif-ganadily.f850a400" target="_blank">
-    <img src="https://img.shields.io/badge/Credly_Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
+  <a href="https://www.credly.com/users/naif-ganadily.6871c31d" target="_blank">
+    <img src="https://img.shields.io/badge/Credly_Main_Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Main Profile"/>
   </a>
+  <a href="https://www.credly.com/users/naif-ganadily.f850a400" target="_blank">
+    <img src="https://img.shields.io/badge/Credly_Secondary_Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Secondary Profile"/>
+  </a>
+  
+  <div align="center">
+    <a href="https://www.credly.com/badges/cc7270e5-6fdf-4224-a77a-7b60e8595fda/public_url" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/1d61d0a0-9abe-4fe6-9358-f8d6a7e34973/Programmer.png" width="150" alt="SAS Certified Associate: Programming Fundamentals"/>
+    </a>
+  </div>
 </div>
-
 
 
