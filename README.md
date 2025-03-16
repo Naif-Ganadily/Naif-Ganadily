@@ -67,7 +67,7 @@
 <summary><strong>📊 Data Science & Analytics</strong></summary>
 <br>
 
-- **SAS Certified Associate: Programming Fundamentals (Base SAS)** – [SAS](https://www.sas.com/)
+- **SAS Certified Educator** – [SAS](https://www.sas.com/)
 - **IBM Data Science Professional Certificate** – [IBM](https://www.ibm.com/)
 - **Google Data Analytics Professional Certificate** – [Google Career Certificates](https://grow.google/certificates/data-analytics/)
 - **Introduction to Data Science Specialization** – [IBM](https://www.ibm.com/)
