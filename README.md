@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/naif-ganadily/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/naifaganadily" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
   <a href="mailto:ganadilynaif@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -21,9 +18,6 @@
   </p>
 </div>
 
-<div align="center">
-  <img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zzb3RuM3F3NzQ2aWJ1cDc5bHF5Z2pseDlhMGhiNjZ5NDhoZGRlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
-</div>
 
 ## 💼 Current Focus
 
@@ -143,4 +137,3 @@
     <img src="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/main/sas-educator.png" width="150" alt="SAS Certified Associate: Programming Fundamentals"/>
   </a>
 </p>
-
