@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Seruef&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naif+A.+Ganadily!;" />
 </div>
 
-<h3 align="center">Graduate Research Associate @ ASU | Graduate Research Scholar Intern @ Mayo Clinic | Ph.D. Student in Biomedical Informatics (Data Science) @ Arizona State University | MSEE (AI Focus) @ The University of Washington | Ex-NVIDIA Research Collaborator</h3>
+<h3 align="center">NIH T32 Predoctoral Fellow – AI for Precision Nutrition | Research Affiliate @ Mayo Clinic | Ph.D. Student in Biomedical Informatics & Data Science @ Arizona State University | MSEE (AI Focus) @ The University of Washington | Ex-NVIDIA Research Collaborator</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/naif-ganadily/" target="_blank">
@@ -22,7 +22,7 @@
 ## 💼 Current Focus
 
 - 🔭 Working on **Machine Learning Research in Metagenomics**
-- 🌱 Developing skills in **PyTorch for Computer Vision**
+- 🌱 Developing skills in **Agentic AI using LangGraph**
 - 👨‍💻 All projects available at [GitHub](https://github.com/Naif-Ganadily)
 - ⚡ Fun fact: **I am a Certified Rock Climber**
 
