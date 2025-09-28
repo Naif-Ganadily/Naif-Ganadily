@@ -21,7 +21,7 @@
 
 ## 💼 Current Focus
 
-- 🔭 Working on **Machine Learning Research in Metagenomics**
+- 🔭 Working on **Machine Learning Research in Clinical Decision Making**
 - 🌱 Developing skills in **Agentic AI using LangGraph**
 - 👨‍💻 All projects available at [GitHub](https://github.com/Naif-Ganadily)
 - ⚡ Fun fact: **I am a Certified Rock Climber**
