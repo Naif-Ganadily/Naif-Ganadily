@@ -43,7 +43,6 @@
   </tr>
   <tr>
     <td align="center"><strong>Additional Languages</strong><br><img src="https://skillicons.dev/icons?i=c,cpp,r,matlab" alt="C, C++, R, MATLAB"/></td>
-    <td align="center"><strong>Web Development</strong><br><img src="https://skillicons.dev/icons?i=react,flask,wordpress" alt="React, Flask, WordPress"/></td>
     <td align="center"><strong>Creative Tools</strong><br><img src="https://skillicons.dev/icons?i=blender" alt="Blender"/></td>
   </tr>
 </table>
@@ -88,6 +87,8 @@
 <summary><strong>💻 Cloud & DevOps</strong></summary>
 <br>
 
+- **Generative AI Leader Certification** – [GCP](https://cloud.google.com)
+- **Cloud Digital Leader Certification** – [GCP](https://cloud.google.com)
 - **AWS Certified Cloud Practitioner** – [Amazon Web Services (AWS)](https://aws.amazon.com/) *(Expired May 2024)*
 - **AWS: Getting Started with Cloud Security** – [AWS](https://aws.amazon.com/) *(Credential ID: ce2a6f9a131a4f5ab2aa58211d92139d)*
 - **Introduction to DevOps** – [IBM](https://www.ibm.com/) *(Credential ID: QY12S2OWKPCX)*
