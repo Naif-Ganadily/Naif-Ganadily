@@ -137,4 +137,12 @@
   <a href="https://www.credly.com/badges/cc7270e5-6fdf-4224-a77a-7b60e8595fda/public_url" target="_blank">
     <img src="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/main/sas-educator.png" width="150" alt="SAS Certified Associate: Programming Fundamentals"/>
   </a>
+
+  <a href="https://www.credly.com/badges/a8de0d81-89f2-4369-bd58-cfe33f975fe4/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/main/cloud-digital-leader-certification.png" width="150" alt="Cloud Digital Leader Certification"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/d2143821-09c1-4954-974c-3e49c2c5b9f0/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/Naif-Ganadily/Naif-Ganadily/main/generative-ai-leader-certification.png" width="150" alt="Generative AI Leader Certification"/>
+  </a>
 </p>
