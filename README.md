@@ -76,7 +76,7 @@
 <summary><strong>🏥 Biomedical Research & Healthcare</strong></summary>
 <br>
 
-- **AI in Healthcare Specialization** – [Stanford University School of Medicine Coursera]([https://med.stanford.edu/](https://www.coursera.org/specializations/ai-healthcare))
+- **AI in Healthcare Specialization** – [Stanford University School of Medicine Coursera](https://www.coursera.org/specializations/ai-healthcare)
 - **IRB Biomedical Research (Group 1)** – [CITI Program](https://about.citiprogram.org/) *(Credential ID: 67768026, Expires Feb 2029)*
 - **Responsible Conduct of Research (RCR)** – [CITI Program](https://about.citiprogram.org/) *(Credential ID: 65231466)*
 - **AI for Precision Nutrition Bootcamp** – [Arizona State University](https://www.asu.edu/)
